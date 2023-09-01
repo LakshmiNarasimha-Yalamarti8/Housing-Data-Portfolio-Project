@@ -5,8 +5,7 @@ The dataset was cleaned and queried using SQL Server.
 I created a database called Project, then imported the dataset which I named Housing in Microsoft SQL Management Server Studio.
 
 # DATA CLEANING
-[Uploading image.png…]
-![Uploading image.png…]()
+
 
 
 
