@@ -12,7 +12,7 @@ From dbo.NashvilleHousing
 -------------------------------------------------------------------------------------------------------------------------- 
 
 -- Standardize Date Format 
-Select saleDateConverted, CONVERT(Date,SaleDate) 
+Select saleDate
 From dbo.NashvilleHousing 
 
 ALTER TABLE NashvilleHousing 
